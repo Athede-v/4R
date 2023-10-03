@@ -10,7 +10,8 @@ Also You can marge with high secure protocols.
 ## CLI
    1. Clone The Repository
    ```
-     git clone https://github.com/Athede-v/4R.git
+git clone https://github.com/Athede-v/4R.git && 
+cd scraper-copier
    ```
    2. Go To CLI Dir
    ```
