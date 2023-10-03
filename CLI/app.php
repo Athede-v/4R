@@ -1,3 +1,4 @@
+<?php
 // https://github.com/athede-v/4R
 #include <stdio.h>
 #include <stdlib.h>
